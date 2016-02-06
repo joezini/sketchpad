@@ -1,0 +1,28 @@
+.square {
+	height: 1px;
+	width: 1px;
+	background-color: white;
+	border: 1px solid gray;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0;
+}
+
+.row {
+	display: block;
+	vertical-align: top;
+	margin: 0;
+}
+
+.hovered {
+	background-color: gray;
+}
+
+div {
+	display: block;
+	text-align: center;
+}
+
+button {
+	margin: 10px auto;
+}
